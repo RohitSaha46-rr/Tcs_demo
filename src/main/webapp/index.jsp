@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>SampleWebProject</h2>
+<p>My first maven web project</p>
 </body>
 </html>
